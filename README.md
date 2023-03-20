@@ -1,6 +1,6 @@
 # ITA0445---R-Progrmamming
-r programming codes
--------------------
+𝑅 𝒫𝑅𝒪𝒢𝑅𝒜𝑀𝑀𝐼𝒩𝒢 𝒬𝒰𝐸𝒮𝒯𝐼𝒪𝒩𝒮
+-------------------------------
 
 1.Perform Matrix Manipulation in R
   a. Create a 3 × 3 matrix matE with every entry equal to 0. Check what the functions row and col return when applied to matE. Hence create the 6 × 6 matrix.
